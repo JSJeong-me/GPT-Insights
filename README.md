@@ -8,4 +8,4 @@
 
 3. GPTs 활용
 
-4. Retriever
+4. Multimodal
