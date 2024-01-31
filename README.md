@@ -6,10 +6,10 @@
 
 
 
-1. GPT-5 미리보기
+1. GPT-5 미리 알아보기
 
 2. 추론(Reasoning)이란?
 
 3. GPTs 활용
 
-4. Multimodal
+4. Multimodal, Local LLM, etc
