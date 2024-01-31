@@ -1,6 +1,7 @@
 # GPT-insights
 초거대 AI 트렌드 이해 과정(02.02) - providing the latest insights on popular trends
-2024년 2월 2일 09:00 🕤 ~ 13:00 🕜
+
+### 2024년 2월 2일 09:00 🕤 ~ 13:00 🕜
 
 
 
