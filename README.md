@@ -6,7 +6,7 @@
 
 
 
-1. GPT4의 Review와 GPT-5 미리 알아보기
+1. GPT4의 Review와 GPT5 미리 알아보기
 
    - Base LLM 과 Instruction Tuned LLM 의 차이 이해
    - Reinforcement Learning Human Feedback (RLHF)
