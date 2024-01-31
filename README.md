@@ -27,3 +27,4 @@
 4. Local LLM 의 필요성과 구현방안
 
    - Ollama
+   - Web browser 내에서 LLM 실행
