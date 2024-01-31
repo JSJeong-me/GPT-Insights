@@ -11,9 +11,17 @@
    - Base LLM 과 Instruction Tuned LLM 의 차이 이해
    - Reinforcement Learning Human Feedback (RLHF)
    - Theory of Mind
+   - Prompt 란?
+   - RAG(Retrieve Augmented Generation)
 
 2. 추론(Reasoning)이란?
 
+   - Deductive(연역 추론) 과 Inductive reasoning(귀납 추론)
+   - Graph를 활용한 추론
+
 3. GPTs 활용
 
-4. Multimodal, Local LLM, etc
+   - Multimodal
+   - 글쓰기 
+
+4. Local LLM 의 필요성과 구현방안
