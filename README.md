@@ -8,6 +8,10 @@
 
 1. GPT-5 미리 알아보기
 
+   - Base LLM 과 Instruction Tuned LLM 의 차이 이해
+   - Reinforcement Learning Human Feedback (RLHF)
+   - Theory of Mind
+
 2. 추론(Reasoning)이란?
 
 3. GPTs 활용
