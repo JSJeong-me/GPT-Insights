@@ -35,7 +35,7 @@
 3. GPTs 활용
 
    - [Multimodal](https://drive.google.com/file/d/1yY0ViA4hrq6V8UyMT9ZVQ-ydHzu2AVzY/view?usp=sharing)
-   - 글쓰기 
+   - [글쓰기](https://docs.google.com/spreadsheets/d/1HpKXHq0X0m5rSX-rBfIiyTrVEpbMIzwRZv9ki8JDxYc/edit?usp=sharing)
 
 4. [Local LLM 의 필요성과 구현방안](https://drive.google.com/file/d/1bGLnr_m0CP7sDhip3cEgjpCmfYa_Injf/view?usp=sharing)
 
