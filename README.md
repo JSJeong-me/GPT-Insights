@@ -9,6 +9,7 @@
 
 ### 2024년 2월 2일 금요일 09:00 🕤 ~ 13:00 🕜
 
+-----
 
 
 1. [GPT4의 Review와 GPT5 미리 알아보기](https://drive.google.com/file/d/18dVgDszcWE5TkBf-arUrZsWS7WIXlbRc/view?usp=sharing)
