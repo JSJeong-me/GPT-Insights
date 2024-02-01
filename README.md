@@ -12,7 +12,7 @@
 -----
 
 
-1. [GPT4의 Review와 GPT5 미리 알아보기](https://drive.google.com/file/d/18dVgDszcWE5TkBf-arUrZsWS7WIXlbRc/view?usp=sharing)
+1. [GPT3.5 GPT4 Review와 GPT5 에 대해 미리 알아보기](https://drive.google.com/file/d/18dVgDszcWE5TkBf-arUrZsWS7WIXlbRc/view?usp=sharing)
 
    - [Base LLM 과 Instruction Tuned LLM 의 차이 이해](https://drive.google.com/file/d/1H2yqGI0Q9x_nkxZaTPKw_yvKS5WKJ1Dx/view?usp=sharing)
    - [Embedding](https://platform.openai.com/tokenizer)
