@@ -32,8 +32,8 @@
 
    - [Deductive(연역 추론) 과 Inductive reasoning(귀납 추론)](https://drive.google.com/file/d/122eW8CoR1a-gajicLMRpYaJGa_XOGNje/view?usp=sharing)
    - [Graph를 활용한 추론](https://neo4j.com/generativeai/)
-   - 'Chain of Thought Reasoning'
-   - 'Chaining Prompts'
+   - ['Chain of Thought Reasoning'](https://docs.google.com/spreadsheets/d/1EVpv4AAehEdlitsoAdzzXn074SCUl9tGll1B80kCSZw/edit#gid=466944589)
+   - ['Chaining Prompts'](https://docs.google.com/spreadsheets/d/1EVpv4AAehEdlitsoAdzzXn074SCUl9tGll1B80kCSZw/edit#gid=466944589)
 
 3. [GPTs 활용](https://chat.openai.com/gpts)
 
