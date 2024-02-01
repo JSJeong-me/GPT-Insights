@@ -37,3 +37,5 @@
 
    - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Graph/blob/main/22-multi-agent-collaboration.ipynb)
    - [agent_supervisor](https://github.com/JSJeong-me/GPT-Graph/blob/main/30-agent_supervisor.ipynb)
+
+6. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)
