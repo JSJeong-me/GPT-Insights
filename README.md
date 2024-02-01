@@ -3,7 +3,7 @@
 ### 초거대 AI 트렌드 이해 과정(02.02) - providing the latest insights on popular trends in GPT
 -----
 
-과정 목표: GPT의 작동원리와 진화 과정의 이해 및 향후 과제
+### 과정 목표: GPT의 작동원리와 진화 과정의 이해 및 향후 과제
 
 -----
 
