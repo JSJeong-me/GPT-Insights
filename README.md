@@ -36,6 +36,8 @@
 
    - [Multimodal](https://drive.google.com/file/d/1yY0ViA4hrq6V8UyMT9ZVQ-ydHzu2AVzY/view?usp=sharing)
    - [글쓰기](https://docs.google.com/spreadsheets/d/1HpKXHq0X0m5rSX-rBfIiyTrVEpbMIzwRZv9ki8JDxYc/edit?usp=sharing)
+   - [![resistor-2k](https://github.com/JSJeong-me/GPT-Insights/assets/54794815/81f87f77-a1ae-470e-b70b-0a621ab0950a)](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/resistor-2k.png)
+
 
 4. [Local LLM 의 필요성과 구현방안](https://drive.google.com/file/d/1bGLnr_m0CP7sDhip3cEgjpCmfYa_Injf/view?usp=sharing)
 
