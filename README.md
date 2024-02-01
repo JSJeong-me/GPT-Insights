@@ -27,7 +27,7 @@
    - Multimodal
    - 글쓰기 
 
-4. Local LLM 의 필요성과 구현방안
+4. [Local LLM 의 필요성과 구현방안](https://drive.google.com/file/d/1bGLnr_m0CP7sDhip3cEgjpCmfYa_Injf/view?usp=sharing)
 
-   - Ollama
-   - Web browser 내에서 LLM 실행
+   - [Ollama](https://ollama.ai/library?sort=popular)
+   - [Web browser 내에서 LLM 실행](https://drive.google.com/file/d/1f0iEYzn7YdUM_aqVWl1VnVYo4DdQebTB/view?usp=sharing)
