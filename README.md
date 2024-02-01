@@ -13,9 +13,11 @@
 
    - Base LLM 과 Instruction Tuned LLM 의 차이 이해
    - Reinforcement Learning Human Feedback (RLHF)
-   - Theory of Mind
    - Prompt 란?
-   - RAG(Retrieve Augmented Generation)
+   - Theory of Mind
+   - [RAG(Retrieve Augmented Generation)](https://drive.google.com/file/d/1Bm4cYqmvLNe_bFzm6B3FUgBXaoP5ARbl/view)
+
+     ![RAG](https://github.com/JSJeong-me/ProDiscovery2LLM/assets/54794815/b06f1ae9-cd23-46ab-b734-2c332541adca)
 
 2. 추론(Reasoning)이란?
 
