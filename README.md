@@ -31,3 +31,9 @@
 
    - [Ollama](https://ollama.ai/library?sort=popular)
    - [Web browser 내에서 LLM 실행](https://drive.google.com/file/d/1f0iEYzn7YdUM_aqVWl1VnVYo4DdQebTB/view?usp=sharing)
+
+
+5. [LangGraph를 활용한 자동화 예제](https://python.langchain.com/docs/langgraph)
+
+   - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Graph/blob/main/22-multi-agent-collaboration.ipynb)
+   - [agent_supervisor](https://github.com/JSJeong-me/GPT-Graph/blob/main/30-agent_supervisor.ipynb)
