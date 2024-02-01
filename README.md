@@ -27,7 +27,7 @@
      1) [학습데이터 생성](https://docs.google.com/spreadsheets/d/1sJ4X03A_DrBCC24zp_sqiQW17qhVoiOQVr5ScEmhfEo/edit#gid=5293024)
      2) [실습 예제 1](https://github.com/JSJeong-me/GPT-Finetuning/blob/main/51-LangChain-ChatBot.ipynb)
 
-2. 추론(Reasoning)이란?
+2. [추론(Reasoning)이란?](https://github.com/JSJeong-me/GPT-Graph/blob/main/Reasoning.md)
 
    - Deductive(연역 추론) 과 Inductive reasoning(귀납 추론)
    - Graph를 활용한 추론
@@ -51,3 +51,11 @@
    - [agent_supervisor](https://github.com/JSJeong-me/GPT-Graph/blob/main/30-agent_supervisor.ipynb)
 
 6. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)
+
+
+### References
+
+![attention](https://github.com/JSJeong-me/ProDiscovery2LLM/assets/54794815/200e4d8e-be5c-47fd-b04a-4723d15bd3aa)
+
+
+[Transformer](https://velog.io/@jiyoung/Transformer-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
