@@ -2,7 +2,9 @@
 
 ### 초거대 AI 트렌드 이해 과정(02.02) - providing the latest insights on popular trends in GPT
 -----
+
 과정 목표: GPT의 작동원리와 진화 과정의 이해 및 향후 과제
+
 -----
 
 ### 2024년 2월 2일 금요일 09:00 🕤 ~ 13:00 🕜
@@ -18,6 +20,11 @@
    - [RAG(Retrieve Augmented Generation)](https://drive.google.com/file/d/1Bm4cYqmvLNe_bFzm6B3FUgBXaoP5ARbl/view)
 
      ![RAG](https://github.com/JSJeong-me/ProDiscovery2LLM/assets/54794815/b06f1ae9-cd23-46ab-b734-2c332541adca)
+
+   - [Fine-tuning Model](https://drive.google.com/file/d/1KQ4TgmXeb5-bIY_rXCKPMEdT_YRmnlYf/view?usp=sharing)
+     
+     1) [학습데이터 생성](https://docs.google.com/spreadsheets/d/1sJ4X03A_DrBCC24zp_sqiQW17qhVoiOQVr5ScEmhfEo/edit#gid=5293024)
+     2) [실습 예제 1](https://github.com/JSJeong-me/GPT-Finetuning/blob/main/51-LangChain-ChatBot.ipynb)
 
 2. 추론(Reasoning)이란?
 
