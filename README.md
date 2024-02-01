@@ -18,7 +18,7 @@
    - [Reinforcement Learning Human Feedback (RLHF)](https://drive.google.com/file/d/1lUynjlMYPFcxT2NSSh-44V28Vxvx52vN/view?usp=sharing)
    - Prompt 란?
    - Theory of Mind
-   - [RAG(Retrieve Augmented Generation)](https://drive.google.com/file/d/1Bm4cYqmvLNe_bFzm6B3FUgBXaoP5ARbl/view)
+   - [RAG(Retrieve Augmented Generation)](https://drive.google.com/file/d/1Bm4cYqmvLNe_bFzm6B3FUgBXaoP5ARbl/view) [실습문서](https://github.com/JSJeong-me/Retriever/blob/main/statics/ECOPRO-20230814-9pages.pdf)
 
      ![RAG](https://github.com/JSJeong-me/ProDiscovery2LLM/assets/54794815/b06f1ae9-cd23-46ab-b734-2c332541adca)
 
