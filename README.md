@@ -29,8 +29,10 @@
 
 2. [추론(Reasoning)이란?](https://github.com/JSJeong-me/GPT-Graph/blob/main/Reasoning.md)
 
-   - Deductive(연역 추론) 과 Inductive reasoning(귀납 추론)
-   - Graph를 활용한 추론
+   - [Deductive(연역 추론) 과 Inductive reasoning(귀납 추론)](https://drive.google.com/file/d/122eW8CoR1a-gajicLMRpYaJGa_XOGNje/view?usp=sharing)
+   - [Graph를 활용한 추론](https://neo4j.com/generativeai/)
+   - 'Chain of Thought Reasoning'
+   - 'Chaining Prompts'
 
 3. GPTs 활용
 
