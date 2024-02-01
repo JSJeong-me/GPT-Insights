@@ -34,7 +34,7 @@
 
 3. GPTs 활용
 
-   - Multimodal
+   - [Multimodal](https://drive.google.com/file/d/1yY0ViA4hrq6V8UyMT9ZVQ-ydHzu2AVzY/view?usp=sharing)
    - 글쓰기 
 
 4. [Local LLM 의 필요성과 구현방안](https://drive.google.com/file/d/1bGLnr_m0CP7sDhip3cEgjpCmfYa_Injf/view?usp=sharing)
@@ -48,4 +48,4 @@
    - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Graph/blob/main/22-multi-agent-collaboration.ipynb)
    - [agent_supervisor](https://github.com/JSJeong-me/GPT-Graph/blob/main/30-agent_supervisor.ipynb)
 
-6. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [NewsGPT](https://newsgpt.ai/)
+6. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)
