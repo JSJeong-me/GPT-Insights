@@ -45,7 +45,7 @@
 
 4. [Local LLM 의 필요성과 구현방안](https://drive.google.com/file/d/1bGLnr_m0CP7sDhip3cEgjpCmfYa_Injf/view?usp=sharing)
 
-   - [Samsung Galzxy S24](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/galaxy-s24.png)
+   - [Samsung Galzxy S24](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/galaxy-s24.png) [https://www.youtube.com/watch?v=kHV3zBaWOHE](https://www.youtube.com/watch?v=kHV3zBaWOHE)
    - [Ollama](https://ollama.ai/library?sort=popular)
    - [Web browser 내에서 LLM 실행](https://drive.google.com/file/d/1f0iEYzn7YdUM_aqVWl1VnVYo4DdQebTB/view?usp=sharing)
 
