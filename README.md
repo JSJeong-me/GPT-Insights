@@ -63,4 +63,4 @@
 ![attention](https://github.com/JSJeong-me/ProDiscovery2LLM/assets/54794815/200e4d8e-be5c-47fd-b04a-4723d15bd3aa)
 
 
-[Transformer](https://velog.io/@jiyoung/Transformer-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+[Transformer]([https://velog.io/@jiyoung/Transformer-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0](https://machinelearningmastery.com/how-to-implement-scaled-dot-product-attention-from-scratch-in-tensorflow-and-keras/)https://machinelearningmastery.com/how-to-implement-scaled-dot-product-attention-from-scratch-in-tensorflow-and-keras/)
