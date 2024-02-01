@@ -34,7 +34,7 @@
    - 'Chain of Thought Reasoning'
    - 'Chaining Prompts'
 
-3. GPTs 활용
+3. [GPTs 활용](https://chat.openai.com/gpts)
 
    - [Multimodal](https://drive.google.com/file/d/1yY0ViA4hrq6V8UyMT9ZVQ-ydHzu2AVzY/view?usp=sharing)
    - [글쓰기](https://docs.google.com/spreadsheets/d/1HpKXHq0X0m5rSX-rBfIiyTrVEpbMIzwRZv9ki8JDxYc/edit#gid=12358067)
