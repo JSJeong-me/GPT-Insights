@@ -11,6 +11,7 @@
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
+
    [자연어와 프로그램의 경계](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-2.png)
 
 2. [GPT3.5 GPT4 Review와 GPT5 에 대해 미리 알아보기](https://drive.google.com/file/d/18dVgDszcWE5TkBf-arUrZsWS7WIXlbRc/view?usp=sharing)
