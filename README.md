@@ -10,9 +10,10 @@
 ### 2024년 5월 31일 금요일 09:00 🕤 ~ 13:00 🕜
 
 -----
+0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
+   [자연어와 프로그램의 경계](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-2.png)
 
-
-1. [GPT3.5 GPT4 Review와 GPT5 에 대해 미리 알아보기](https://drive.google.com/file/d/18dVgDszcWE5TkBf-arUrZsWS7WIXlbRc/view?usp=sharing)
+2. [GPT3.5 GPT4 Review와 GPT5 에 대해 미리 알아보기](https://drive.google.com/file/d/18dVgDszcWE5TkBf-arUrZsWS7WIXlbRc/view?usp=sharing)
 
    - [Base LLM 과 Instruction Tuned LLM 의 차이 이해](https://drive.google.com/file/d/1WDAImH03T-f5wjXb8MXrbwrZOamE_s6Z/view?usp=sharing)
    - [Embedding](https://platform.openai.com/tokenizer)
@@ -28,14 +29,14 @@
      1) [학습데이터 생성](https://docs.google.com/spreadsheets/d/1sJ4X03A_DrBCC24zp_sqiQW17qhVoiOQVr5ScEmhfEo/edit#gid=5293024)
      2) [실습 예제 1](https://github.com/JSJeong-me/GPT-Finetuning/blob/main/51-LangChain-ChatBot.ipynb)
 
-2. [추론(Reasoning)이란?](https://github.com/JSJeong-me/GPT-Graph/blob/main/Reasoning.md)
+3. [추론(Reasoning)이란?](https://github.com/JSJeong-me/GPT-Graph/blob/main/Reasoning.md)
 
    - [Deductive(연역 추론) 과 Inductive reasoning(귀납 추론)](https://drive.google.com/file/d/122eW8CoR1a-gajicLMRpYaJGa_XOGNje/view?usp=sharing)
    - [Graph를 활용한 추론](https://neo4j.com/generativeai/)
    - ['Chain of Thought Reasoning'](https://docs.google.com/spreadsheets/d/1EVpv4AAehEdlitsoAdzzXn074SCUl9tGll1B80kCSZw/edit#gid=466944589)
    - ['Chaining Prompts'](https://docs.google.com/spreadsheets/d/1EVpv4AAehEdlitsoAdzzXn074SCUl9tGll1B80kCSZw/edit#gid=466944589)
 
-3. [GPTs 활용](https://chat.openai.com/gpts)
+4. [GPTs 활용](https://chat.openai.com/gpts)
 
    - [Multimodal](https://drive.google.com/file/d/1yY0ViA4hrq6V8UyMT9ZVQ-ydHzu2AVzY/view?usp=sharing)
    - [글쓰기](https://docs.google.com/spreadsheets/d/1HpKXHq0X0m5rSX-rBfIiyTrVEpbMIzwRZv9ki8JDxYc/edit#gid=12358067)  [Blog Writer](https://chat.openai.com/g/g-PAFR1uSJk-blog-writer)  [Blog Expert](https://chat.openai.com/g/g-PWizFQk8C-blog-expert)
@@ -43,20 +44,20 @@
    - [Cartoonize Me](https://chat.openai.com/g/g-X2Cy0Tv71-cartoonize-me-image-to-cartoon)
 
 
-4. [Local LLM 의 필요성과 구현방안](https://drive.google.com/file/d/1bGLnr_m0CP7sDhip3cEgjpCmfYa_Injf/view?usp=sharing)
+5. [Local LLM 의 필요성과 구현방안](https://drive.google.com/file/d/1bGLnr_m0CP7sDhip3cEgjpCmfYa_Injf/view?usp=sharing)
 
    - [Samsung Galzxy S24](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/galaxy-s24.png) [https://www.youtube.com/watch?v=kHV3zBaWOHE](https://www.youtube.com/watch?v=kHV3zBaWOHE)
    - [Ollama](https://ollama.ai/library?sort=popular)
    - [Web browser 내에서 LLM 실행](https://drive.google.com/file/d/1f0iEYzn7YdUM_aqVWl1VnVYo4DdQebTB/view?usp=sharing)
 
 
-5. [LangGraph를 활용한 자동화 예제](https://python.langchain.com/docs/langgraph)
+6. [LangGraph를 활용한 자동화 예제](https://python.langchain.com/docs/langgraph)
 
    - [Graph Question & Answering](https://github.com/JSJeong-me/GPT-Graph/blob/main/01-Graph-Question.ipynb)
    - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Graph/blob/main/22-multi-agent-collaboration.ipynb)
    - [agent_supervisor](https://github.com/JSJeong-me/GPT-Graph/blob/main/30-agent_supervisor.ipynb)
 
-6. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)
+7. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)
 
 
 ### References
