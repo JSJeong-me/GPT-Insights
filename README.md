@@ -50,7 +50,7 @@
    - [Web browser 내에서 LLM 실행](https://drive.google.com/file/d/1f0iEYzn7YdUM_aqVWl1VnVYo4DdQebTB/view?usp=sharing)
 
 
-6. [LangGraph를 활용한 자동화 예제](https://python.langchain.com/docs/langgraph)
+6. [Graph와 Agent를 활용한 자동화 구현](https://python.langchain.com/docs/langgraph)
 
    - [Graph Question & Answering](https://github.com/JSJeong-me/GPT-Graph/blob/main/01-Graph-Question.ipynb)
    - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Agent/blob/main/20-multi-agent-collaboration.ipynb)
