@@ -18,7 +18,7 @@
 
    - [Embedding](https://platform.openai.com/tokenizer)
    - [Reinforcement Learning Human Feedback (RLHF)](https://drive.google.com/file/d/1lUynjlMYPFcxT2NSSh-44V28Vxvx52vN/view?usp=sharing)
-   - Prompt 란?
+   - [Prompt 란?](https://platform.openai.com/docs/examples)
    - Theory of Mind
    - [RAG(Retrieve Augmented Generation)](https://drive.google.com/file/d/1Bm4cYqmvLNe_bFzm6B3FUgBXaoP5ARbl/view) [실습문서](https://github.com/JSJeong-me/Retriever/blob/main/statics/ECOPRO-20230814-9pages.pdf)
 
