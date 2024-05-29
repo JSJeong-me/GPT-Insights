@@ -1,13 +1,13 @@
 # GPT-Insights [[교안]](https://drive.google.com/file/d/1I5PSPJ9VUdLj0qihIut6ziuSAAgqEi_p/view?usp=sharing)
 
-### 초거대 AI 트렌드 이해 과정(0531) - providing the latest insights on popular trends in GPT
+### GPT 활용 업무 자동화 (0530) - providing the latest insights on popular trends in GPT
 -----
 
 ### 과정 목표: GPT의 작동원리와 진화 과정의 이해 및 향후 과제
 
 -----
 
-### 2024년 5월 31일 금요일 09:00 🕤 ~ 13:00 🕜
+### 2024년 5월 30일 목요일 10:00 🕤 ~ 15:00 🕜
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
