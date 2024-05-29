@@ -52,6 +52,7 @@
 
 6. [Graph와 Agent를 활용한 자동화 구현](https://github.com/JSJeong-me/GPT-Agent)
 
+   - [다양한 Tools](https://python.langchain.com/v0.1/docs/integrations/tools/)  ex) [PassioAI](https://www.passio.ai/)
    - [Graph Question & Answering](https://github.com/JSJeong-me/GPT-Graph/blob/main/01-Graph-Question.ipynb)
    - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Agent/blob/main/20-multi-agent-collaboration.ipynb)
    - [agent_supervisor](https://github.com/JSJeong-me/GPT-Agent/blob/main/21-agent_supervisor.ipynb)
