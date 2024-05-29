@@ -19,7 +19,7 @@
    - [Embedding](https://platform.openai.com/tokenizer)
    - [Reinforcement Learning Human Feedback (RLHF)](https://drive.google.com/file/d/1lUynjlMYPFcxT2NSSh-44V28Vxvx52vN/view?usp=sharing)
    - [Prompt 란?](https://platform.openai.com/docs/examples)
-   - [RAG(Retrieve Augmented Generation)](https://drive.google.com/file/d/1Bm4cYqmvLNe_bFzm6B3FUgBXaoP5ARbl/view) [실습문서](https://github.com/JSJeong-me/Retriever/blob/main/statics/ECOPRO-20230814-9pages.pdf)
+   - [RAG(Retrieve Augmented Generation)](https://drive.google.com/file/d/1Bm4cYqmvLNe_bFzm6B3FUgBXaoP5ARbl/view) [[실습 프로그램]]https://docs.google.com/spreadsheets/d/1BB3IV0N7H33icN4mh9D52mpF4oaxJcI0srs71-XGs8I/edit#gid=0)   [[LIVE-DEMO](http://3.36.196.66:8501)]
 
      ![RAG](https://github.com/JSJeong-me/ProDiscovery2LLM/assets/54794815/b06f1ae9-cd23-46ab-b734-2c332541adca)
 
