@@ -56,7 +56,9 @@
    - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Graph/blob/main/22-multi-agent-collaboration.ipynb)
    - [agent_supervisor](https://github.com/JSJeong-me/GPT-Graph/blob/main/30-agent_supervisor.ipynb)
 
-7. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)
+7. [Agent Workflow]((https://github.com/JSJeong-me/GPT-Agent))
+
+8. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)
 
 
 ### References
