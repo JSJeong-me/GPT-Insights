@@ -58,7 +58,9 @@
    - [agent_supervisor](https://github.com/JSJeong-me/GPT-Agent/blob/main/21-agent_supervisor.ipynb)
    - [hierarchical_agent_teams](https://github.com/JSJeong-me/GPT-Agent/blob/main/22-hierarchical_agent_teams.ipynb)
 
-7. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)
+7. [CrewAI](https://github.com/joaomdmoura/crewai?tab=readme-ov-file)   [gpt-newspaper](https://github.com/assafelovic/gpt-newspaper/tree/master)   [Tools](https://docs.crewai.com/core-concepts/Tools/#available-crewai-tools)
+
+8. [Monitoring: LangSmith](https://www.langchain.com/langsmith)
 
 
 ### References
