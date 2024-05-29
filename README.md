@@ -3,7 +3,7 @@
 ### GPT 활용 업무 자동화 (0530) - providing the latest insights on popular trends in GPT
 -----
 
-### 과정 목표: GPT의 작동원리와 진화 과정의 이해 및 향후 과제
+### 과정 목표: GPT를 활용한 업무 자동화
 
 -----
 
