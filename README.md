@@ -16,7 +16,6 @@
 
 2. [GPT3.5 GPT4 Review와 GPT5 에 대해 미리 알아보기](https://drive.google.com/file/d/18dVgDszcWE5TkBf-arUrZsWS7WIXlbRc/view?usp=sharing)
 
-   - [Base LLM 과 Instruction Tuned LLM 의 차이 이해](https://drive.google.com/file/d/1WDAImH03T-f5wjXb8MXrbwrZOamE_s6Z/view?usp=sharing)
    - [Embedding](https://platform.openai.com/tokenizer)
    - [Reinforcement Learning Human Feedback (RLHF)](https://drive.google.com/file/d/1lUynjlMYPFcxT2NSSh-44V28Vxvx52vN/view?usp=sharing)
    - Prompt 란?
