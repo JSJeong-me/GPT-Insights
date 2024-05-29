@@ -53,8 +53,9 @@
 6. [LangGraph를 활용한 자동화 예제](https://python.langchain.com/docs/langgraph)
 
    - [Graph Question & Answering](https://github.com/JSJeong-me/GPT-Graph/blob/main/01-Graph-Question.ipynb)
-   - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Graph/blob/main/22-multi-agent-collaboration.ipynb)
-   - [agent_supervisor](https://github.com/JSJeong-me/GPT-Graph/blob/main/30-agent_supervisor.ipynb)
+   - [multi-agent-collaboration](https://github.com/JSJeong-me/GPT-Agent/blob/main/20-multi-agent-collaboration.ipynb)
+   - [agent_supervisor](https://github.com/JSJeong-me/GPT-Agent/blob/main/21-agent_supervisor.ipynb)
+   - [hierarchical_agent_teams](https://github.com/JSJeong-me/GPT-Agent/blob/main/22-hierarchical_agent_teams.ipynb)
 
 7. [Agent Workflow](https://github.com/JSJeong-me/GPT-Agent)
 
