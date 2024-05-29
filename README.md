@@ -1,4 +1,4 @@
-# GPT-Insights [[교안]](https://drive.google.com/file/d/1I5PSPJ9VUdLj0qihIut6ziuSAAgqEi_p/view?usp=sharing)  [[실습파일]](https://docs.google.com/spreadsheets/d/1BB3IV0N7H33icN4mh9D52mpF4oaxJcI0srs71-XGs8I/edit?usp=sharing)
+# GPT-Insights [[교안]](https://drive.google.com/file/d/1I5PSPJ9VUdLj0qihIut6ziuSAAgqEi_p/view?usp=sharing)
 
 ### GPT 활용 업무 자동화 (0530) - providing the latest insights on popular trends in GPT
 -----
