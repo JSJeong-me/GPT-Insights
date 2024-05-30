@@ -1,13 +1,13 @@
 # GPT-Insights [[교안]](https://drive.google.com/file/d/1I5PSPJ9VUdLj0qihIut6ziuSAAgqEi_p/view?usp=sharing)
 
-### GPT 활용 업무 자동화 (0530) - providing the latest insights on popular trends in GPT
+### GPT 활용 업무 자동화 (0531) - providing the latest insights on popular trends in GPT
 -----
 
 ### 과정 목표: GPT를 활용한 업무 자동화
 
 -----
 
-### 2024년 5월 30일 목요일 10:00 🕤 ~ 17:00 🕜
+### 2024년 5월 31일 금요일 09:00 🕤 ~ 13:00 🕜
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
