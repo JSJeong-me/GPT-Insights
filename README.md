@@ -1,6 +1,6 @@
 # GPT-Insights [[교안]](https://drive.google.com/file/d/1I5PSPJ9VUdLj0qihIut6ziuSAAgqEi_p/view?usp=sharing)
 
-### GPT 활용 업무 자동화 (0531) - providing the latest insights on popular trends in GPT
+### 초거대 AI 트렌드 이해 과정(5/31) - providing the latest insights on popular trends in GPT
 -----
 
 ### 과정 목표: GPT를 활용한 업무 자동화
