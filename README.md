@@ -3,7 +3,7 @@
 ### 초거대 AI 트렌드 이해 과정(5/31) - providing the latest insights on popular trends in GPT
 -----
 
-### 과정 목표: GPT를 활용한 업무 자동화
+### 과정 목표: GPT 기술의 최신 트렌드 이해와 업무 활용
 
 -----
 
