@@ -62,9 +62,9 @@
 
 8. [Monitoring: LangSmith](https://www.langchain.com/langsmith)
 
-## Tavily API Key - [Sign Up](https://app.tavily.com/sign-in)
-## SERP API Key - [Sign Up](https://serper.dev/)
-## OpenAI API Key - [Sign Up](https://platform.openai.com/api-keys)
+### Tavily API Key - [Sign Up](https://app.tavily.com/sign-in)
+### SERP API Key - [Sign Up](https://serper.dev/)
+### OpenAI API Key - [Sign Up](https://platform.openai.com/api-keys)
 
 ### References
 
