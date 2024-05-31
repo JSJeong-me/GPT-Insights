@@ -66,6 +66,9 @@
 ### SERP API Key - [Sign Up](https://serper.dev/)
 ### OpenAI API Key - [Sign Up](https://platform.openai.com/api-keys)
 
+### [LLM APIs response time tracker](https://gptforwork.com/tools/openai-api-and-other-llm-apis-response-time-tracker)
+### [ChatGPT Uptime](https://status.openai.com/uptime)
+
 ### References
 
 ![attention](https://github.com/JSJeong-me/ProDiscovery2LLM/assets/54794815/200e4d8e-be5c-47fd-b04a-4723d15bd3aa)
