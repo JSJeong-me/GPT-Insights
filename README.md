@@ -1,13 +1,13 @@
-# GPT-Insights [[교안]](https://drive.google.com/file/d/1s90XYRSj9aNWoTFq6O1gAgotSYIZI2Hy/view?usp=sharing)
+# GPT-Insights [[교안]](https://drive.google.com/file/d/1wXKGD-EcmFzKqdhSBHJq1vrpmwiGwM_S/view)
 
-### 초거대 AI 트렌드 이해 과정(5/31) - providing the latest insights on popular trends in GPT
+### [LLM 응용 프로그램 개발](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -----
 
-### 과정 목표: GPT 기술의 최신 트렌드 이해와 업무 활용
+### 과정 목표: LLM 개발 Framework이 제공하는 메모리, 체인, 에이전트 기능을 활용하여 복잡한 작업을 수행하는 앱 개발
 
 -----
 
-### 2024년 5월 31일 금요일 09:00 🕤 ~ 13:00 🕜
+### 2024년 6월 11일 화요일 10:00 🕤 ~ 15:00 🕜
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
