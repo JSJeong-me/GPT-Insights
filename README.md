@@ -1,6 +1,6 @@
 # GPT-Insights [[교안]](https://drive.google.com/file/d/1wXKGD-EcmFzKqdhSBHJq1vrpmwiGwM_S/view)
 
-### [LLM 응용 프로그램 개발](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
+### [[LLM 응용 프로그램 개발]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -----
 
 ### 과정 목표: LLM 개발 Framework이 제공하는 메모리, 체인, 에이전트 기능을 활용하여 복잡한 작업을 수행하는 앱 개발
