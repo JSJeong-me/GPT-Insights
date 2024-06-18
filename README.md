@@ -1,4 +1,4 @@
-# GPT-Insights [[교안]](https://docs.google.com/document/d/1f6ulpqHyOcCGDlF4Lju-7Byhbppn6kf-Cgixu1FuQdw/edit?usp=sharing)  [1일차]https://docs.google.com/document/d/1h7ngF_3w5C2wb7nVPV67qF6HKgOu6N1Jm7imtroI0Lk/edit?usp=sharing)
+# GPT-Insights [[교안]](https://docs.google.com/document/d/1f6ulpqHyOcCGDlF4Lju-7Byhbppn6kf-Cgixu1FuQdw/edit?usp=sharing)  [1일차](https://docs.google.com/document/d/1h7ngF_3w5C2wb7nVPV67qF6HKgOu6N1Jm7imtroI0Lk/edit?usp=sharing)
 <!---
 ### [[LLM 응용 프로그램 개발]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -->
