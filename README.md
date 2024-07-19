@@ -1,4 +1,4 @@
-# GPT-Insights [[교안]](https://docs.google.com/document/d/1f6ulpqHyOcCGDlF4Lju-7Byhbppn6kf-Cgixu1FuQdw/edit?usp=sharing) - [[3일차]](https://docs.google.com/document/d/1h7ngF_3w5C2wb7nVPV67qF6HKgOu6N1Jm7imtroI0Lk/edit?usp=sharing)
+# GPT-Insights [[교안]](https://drive.google.com/file/d/16bDngCAPv_vUqakLRJaXA9QgYM4mzqwm/view?usp=drive_link) - [[실습]](https://docs.google.com/document/d/1XFigi8MzHTcZExpkkGUnGDuQKWvn1oF-s2lOibUVOwY/edit?usp=sharing)
 <!---
 ### [[LLM 응용 프로그램 개발]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -->
@@ -8,7 +8,7 @@
 
 -----
 
-### 2024년 6월 19일 화요일 09:00 🕤 ~ 18:00 🕜
+### 2024년 7월 25~26일 화요일 09:00 🕤 ~ 18:00 🕜
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
