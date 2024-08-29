@@ -1,6 +1,6 @@
-# GPT-Insights [[교안]](https://drive.google.com/file/d/16bDngCAPv_vUqakLRJaXA9QgYM4mzqwm/view?usp=drive_link) - [[실습]](https://docs.google.com/document/d/1XFigi8MzHTcZExpkkGUnGDuQKWvn1oF-s2lOibUVOwY/edit?usp=sharing)
+# GPT-Insights [[교안]](https://drive.google.com/file/d/16bDngCAPv_vUqakLRJaXA9QgYM4mzqwm/view?usp=drive_link) - [[실습]](https://docs.google.com/document/d/13mpJl4we-SDYFB5T27oBiZPIC1qBRpTJnYVu1E2owCQ/edit?usp=sharing)
 <!---
-### [[LLM 응용 프로그램 개발]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
+### [[GPT 업무활용]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -->
 -----
 
