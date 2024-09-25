@@ -4,7 +4,10 @@
 -->
 -----
 
-### 과정 목표: LLM 개발 Framework이 제공하는 메모리, 체인, 에이전트 기능을 활용하여 복잡한 작업을 수행하는 앱 개발
+### 과정 목표: Prompt의 중요성과 이를 통해 Multi-Agent를 활용한 분석 자동화
+
+![image](https://github.com/user-attachments/assets/06856ff7-de58-4c58-b011-76c900f1aae7)
+
 
 -----
 
