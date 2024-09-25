@@ -1,4 +1,4 @@
-# GPT-Insights [[교안]](https://drive.google.com/file/d/1WWqUTpISmoBB2VhG7Jb__s5dp5bkints/view?usp=sharing) - [[실습]](https://docs.google.com/document/d/13mpJl4we-SDYFB5T27oBiZPIC1qBRpTJnYVu1E2owCQ/edit?usp=sharing)
+# GPT-Insights [[교안]](https://drive.google.com/file/d/1I8pmapM5mIeZCY1D08Zni2ROTM8DYQgB/view?usp=sharing) - [[실습]](https://docs.google.com/document/d/1dt9_xu3_LkxnARgHgjE1Xw6FRjHppeAOxSLIO_JkjKI/edit?usp=sharing)
 <!---
 ### [[GPT 업무활용]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -->
@@ -8,7 +8,7 @@
 
 -----
 
-### 2024년 8월 30일 금요일 09:00 🕤 ~ 18:00 🕜
+### 2024년 9월 27일 금요일 09:00 🕤 ~ 13:00 🕜
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
