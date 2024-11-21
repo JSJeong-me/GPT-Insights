@@ -1,14 +1,14 @@
-# GPT-Insights (https://docs.google.com/document/d/1vzvCziUpfZMVHfsgLObuaAad0iGRoukCie1S8tM59S0/edit?usp=sharing)
+# GPT-Insights [[교안]](https://docs.google.com/document/d/1vzvCziUpfZMVHfsgLObuaAad0iGRoukCie1S8tM59S0/edit?usp=sharing)
 <!---
 ### [[GPT 업무활용]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -->
 -----
 
-### 과정 목표: Prompt의 중요성과 이를 통해 Multi-Agent 활용한 업무 자동화
+### 과정 목표: AI 최근 트렌드와 업무활용 - Multi-Agent 활용한 업무 자동화
 
 -----
 
-### 2024년 9월 27일 금요일 09:00 🕤 ~ 13:00 🕜
+### 2024년 11월 22일 금요일 09:00 🕤 ~ 13:00 🕜
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
