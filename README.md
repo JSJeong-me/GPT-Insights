@@ -1,4 +1,4 @@
-# GPT-Insights [[교안]](https://drive.google.com/file/d/1I8pmapM5mIeZCY1D08Zni2ROTM8DYQgB/view?usp=sharing) - [[실습]](https://docs.google.com/document/d/1dt9_xu3_LkxnARgHgjE1Xw6FRjHppeAOxSLIO_JkjKI/edit?usp=sharing)
+# GPT-Insights (https://docs.google.com/document/d/1vzvCziUpfZMVHfsgLObuaAad0iGRoukCie1S8tM59S0/edit?usp=sharing)
 <!---
 ### [[GPT 업무활용]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -->
