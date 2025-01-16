@@ -4,11 +4,11 @@
 -->
 -----
 
-### 과정 목표: AI 최근 트렌드와 업무활용 - Multi-Agent 활용한 업무 자동화
+### 과정 목표: AI 최근 트렌드와 업무활용 - 다양한 GPT 모델과 Multi-Agent를 활용한 업무 자동화
 
 -----
 
-### 2024년 11월 22일 금요일 09:00 🕤 ~ 13:00 🕜
+### 2025년 1월 22일 수요일 09:00 🕤 ~ 13:00 🕜
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
