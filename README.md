@@ -1,4 +1,4 @@
-# 2025년도 KOSA GPT-Insights 1회차 [[교안]](https://docs.google.com/document/d/1vzvCziUpfZMVHfsgLObuaAad0iGRoukCie1S8tM59S0/edit?usp=sharing)
+# 2025년도 KOSA GPT-Insights 1회차 [[교안]](https://docs.google.com/document/d/1Te-ibmkEsYb5f1pfWOnursNbbf9jlDMgyZ1rvMMm7hc/edit?usp=sharing)
 <!---
 ### [[GPT 업무활용]](https://docs.google.com/document/d/1TB6skjB6Iq1kDpSO1Omrwz25-TFsrFClQrUsSlH_Yv0/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 -->
