@@ -1,7 +1,7 @@
 <!---
 # 2025년도 KOSA GPT-Insights 1회차 [[교안]](https://docs.google.com/document/d/1Te-ibmkEsYb5f1pfWOnursNbbf9jlDMgyZ1rvMMm7hc/edit?usp=sharing)
 -->
-# [[2025년도 KOSA GPT 업무활용]](https://docs.google.com/document/d/1Te-ibmkEsYb5f1pfWOnursNbbf9jlDMgyZ1rvMMm7hc/edit?usp=sharing) - providing the latest insights on popular trends in GPT
+# [[2025 GPT Insights]](https://docs.google.com/document/d/1TrrmXv5GK3V1yx9FyBMUitr9r1SFg-FF2lrn4e6cUs8/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 
 -----
 
