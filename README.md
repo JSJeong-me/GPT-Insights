@@ -1,7 +1,7 @@
 <!---
-# 2025년도 KOSA GPT-Insights 1회차 [[교안]](https://docs.google.com/document/d/1Te-ibmkEsYb5f1pfWOnursNbbf9jlDMgyZ1rvMMm7hc/edit?usp=sharing)
+# 2025년도 KOSA GPT-Insights 2회차 [[교안]](https://docs.google.com/document/d/1Te-ibmkEsYb5f1pfWOnursNbbf9jlDMgyZ1rvMMm7hc/edit?usp=sharing)
 -->
-# [[2025 GPT Insights]](https://docs.google.com/document/d/1TrrmXv5GK3V1yx9FyBMUitr9r1SFg-FF2lrn4e6cUs8/edit?usp=sharing) - providing the latest insights on popular trends in GPT
+# [[2025 GPT Insights]](https://docs.google.com/document/d/127atxbsKvSM-gMMr7Eb1RS7ITQDAK1dFsr1IYczKdxQ/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 
 -----
 
@@ -10,7 +10,7 @@
 
 -----
 
-### 2025년 2월 19일 수요일 09:00 🕤 ~ 18:00 🕜
+### 2025년 3월 28일 수요일 09:00 🕤 ~ 12:50 🕔
 
 -----
 0. [프로그램의 진화과정](https://github.com/JSJeong-me/GPT-Insights/blob/main/images/Program-1.png)
