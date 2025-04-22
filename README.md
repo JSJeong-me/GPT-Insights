@@ -3,6 +3,7 @@
 -->
 # [[2025 GPT Insights]](https://docs.google.com/document/d/1KcSvKKpC2O36JLaMQB18bCP7EET6SnFklIPfVjpLtXg/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 
+# [[Agent Prompt - Optimal Decision Paper]](https://drive.google.com/file/d/1aigAd9Qe5SM4VFDoN_LcV6EHTHK5VCCF/view?usp=drive_link) [[발표자료]](https://drive.google.com/file/d/1LcWFlmDMgKnaCbebQvowwG2ZytPOuMaH/view?usp=sharing)
 -----
 
 ### 과정 목표: AI 최근 트렌드를 알아보고
