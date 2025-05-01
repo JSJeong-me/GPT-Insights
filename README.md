@@ -1,7 +1,7 @@
 <!---
 # 2025년도 KOSA GPT-Insights 2회차 [[교안]](https://docs.google.com/document/d/1Te-ibmkEsYb5f1pfWOnursNbbf9jlDMgyZ1rvMMm7hc/edit?usp=sharing)
 -->
-# [[2025 GPT Insights]](https://docs.google.com/document/d/1KcSvKKpC2O36JLaMQB18bCP7EET6SnFklIPfVjpLtXg/edit?usp=sharing) - providing the latest insights on popular trends in GPT
+# [[2025 GPT Insights]](https://docs.google.com/document/d/1yDc29feF6JQVfJ0iUKP-kcq0Z9y4mOJh5PWOezm6r8I/edit?usp=sharing) - providing the latest insights on popular trends in GPT
 
 # [[Agent Prompt - Optimal Decision Paper]](https://drive.google.com/file/d/1aigAd9Qe5SM4VFDoN_LcV6EHTHK5VCCF/view?usp=drive_link) [[발표자료]](https://drive.google.com/file/d/1LcWFlmDMgKnaCbebQvowwG2ZytPOuMaH/view?usp=sharing)
 -----
